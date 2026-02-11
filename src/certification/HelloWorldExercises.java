@@ -1,4 +1,4 @@
-package certificacion;
+package certification;
 
 import java.util.Scanner;
 

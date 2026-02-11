@@ -1,4 +1,4 @@
-package certificacion;
+package certification;
 
 public class KeyPoints {
 
