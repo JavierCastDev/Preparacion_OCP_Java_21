@@ -1,4 +1,4 @@
-package certification;
+package certification.basics;
 
 public class HelloWorld {
 

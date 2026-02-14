@@ -1,4 +1,4 @@
-package certification;
+package certification.exercises;
 
 public class BeginnerExercises {
 

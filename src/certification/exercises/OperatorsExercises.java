@@ -1,4 +1,4 @@
-package certification;
+package certification.exercises;
 
 public class OperatorsExercises {
 
@@ -76,6 +76,6 @@ public class OperatorsExercises {
         // 10. Combine arithmetic, comparison, and logical operators.
 
         System.out.println(5 + 1 == 6 || 'a' > 3);
-        
+
     }
 }

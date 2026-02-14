@@ -1,4 +1,4 @@
-package certification;
+package certification.variables;
 
 public class VariablesAndConstants {
 
