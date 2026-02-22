@@ -26,5 +26,12 @@ public class References {
 
         // Print the second hash code (it will be identical to the first one)
         System.out.println(referenceTwo);
+
+        /* * NOTE: This is NOT a direct memory address. In Java, actual memory addresses
+         * are managed and moved by the Garbage Collector (GC) for optimization.
+         * System.identityHashCode() provides the closest unique identifier to an object's
+         * identity, behaving like a "passport ID" that remains constant even if the
+         * GC moves the object to a different physical location in the Heap.
+         */
     }
 }
